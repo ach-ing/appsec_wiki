@@ -1,19 +1,16 @@
 # appsec_wiki
 ## Topics
 
-- [![Dicts](./dicts)
+- [Dicts](./dicts)
 
-- [![Frameworks](./frameworks)
+- [Frameworks](./frameworks)
 
-- [![Clouds](./clouds)
+- [Clouds](./clouds)
 
-- [![DBO](./dbo)  
+- [DBO](./dbo)  
 
-- [![Смарт контракты](./smart-contract)  
+- [Смарт контракты](./smart-contract)  
 
-- [![Clouds](./Clouds)
-
-- [![DBO](./DBO)  
 
 ## Links
 - [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/v41/)

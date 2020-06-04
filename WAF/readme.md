@@ -1,3 +1,3 @@
 ## Bypass WAF by DNS Tool
-- [](https://github.com/vincentcox/bypass-firewalls-by-DNS-history)
-- [](https://viewdns.info/iphistory/)
+- [bypass-firewalls-by-DNS-history toll](https://github.com/vincentcox/bypass-firewalls-by-DNS-history)
+- [viewdns.info/iphistory](https://viewdns.info/iphistory/)

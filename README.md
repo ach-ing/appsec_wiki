@@ -5,6 +5,8 @@
 
 - [Frameworks](./frameworks)
 
+- [SQLi](./sqli)
+
 - [WAF](./WAF)
 
 - [Clouds](./clouds)

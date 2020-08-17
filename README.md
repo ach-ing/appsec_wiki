@@ -20,6 +20,7 @@
 
 ## Cheat sheets
 - [Web App Pentest Cheat Sheet](https://medium.com/@muratkaraoz/web-app-pentest-cheat-sheet-c17394af773)
+- [hacktricks.xyz](https://book.hacktricks.xyz/pentesting-web/)
 
 ## Links
 - [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/v41/)

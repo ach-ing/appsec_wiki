@@ -13,6 +13,10 @@
 
 - [GraphQL](./graphql)
 
+https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
+
+https://gitlab.com/dee-see/graphql-path-enum
+
 - [DBO](./dbo)  
 
 - [Смарт контракты](./smart-contract)  

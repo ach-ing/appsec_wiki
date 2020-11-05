@@ -27,6 +27,7 @@ https://gitlab.com/dee-see/graphql-path-enum
 - [API checklist](https://github.com/shieldfy/API-Security-Checklist)
 
 ## Cheat sheets
+- [OAuth](https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf)
 - [Web App Pentest Cheat Sheet](https://medium.com/@muratkaraoz/web-app-pentest-cheat-sheet-c17394af773)
 - [hacktricks.xyz](https://book.hacktricks.xyz/pentesting-web/)
 - [OWASP Prevention Cheat Sheets](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets)

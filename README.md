@@ -19,7 +19,9 @@ https://gitlab.com/dee-see/graphql-path-enum
 
 - [DBO](./dbo)  
 
-- [Смарт контракты](./smart-contract)  
+- [Smart Contract](./smart-contract)
+
+
 
 ## Check-Lists
 - [API checklist](https://github.com/shieldfy/API-Security-Checklist)

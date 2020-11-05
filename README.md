@@ -34,7 +34,7 @@ https://gitlab.com/dee-see/graphql-path-enum
 - [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps](https://mostafa.dev/blog/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps)
 
 ## Tutorials
-- [Acunetix with Tor and chain update](acunetixAndTor.md)
+- [Acunetix with Tor and chain update](./acunetixandtor.md)
 
 ## Links
 - [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/v41/)

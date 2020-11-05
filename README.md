@@ -33,6 +33,9 @@ https://gitlab.com/dee-see/graphql-path-enum
 - [OWASP Prevention Cheat Sheets](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets)
 - [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps](https://mostafa.dev/blog/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps)
 
+## Tutorials
+- [Acunetix with Tor and chain update](acunetixAndTor.md)
+
 ## Links
 - [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/v41/)
 - [OWASP API Security Project top 10](https://owasp.org/www-project-api-security/)

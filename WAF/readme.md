@@ -9,3 +9,8 @@
 root@root:~$ bash bypass-firewalls-by-DNS-history.sh -d domain.com -a
 ```
 - [viewdns.info/iphistory](https://viewdns.info/iphistory/)
+#### Cloudflare
+- [CloudFail(crimeflare, ipinfo.io)](https://github.com/m0rtem/CloudFail) 
+- [CloudFlair](https://github.com/christophetd/CloudFlair)
+- [crimeflare](http://www.crimeflare.org:82/cfs.html)
+- [cloudip.sh](https://github.com/Top-Hat-Sec/thsosrtl/blob/master/CloudIP/cloudip.sh)

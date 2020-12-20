@@ -1,7 +1,7 @@
 Modify /etc/tor/torrc:
 `MaxCircuitDirtiness 10 # change tor chain every 10 seconds`
 
-Web based Acunetix can proxy only throigh HTTP so we need HTTP-proxy
+Web based Acunetix can proxy only through HTTP so we need HTTP-proxy
 
 `apt-get install polipo`
 

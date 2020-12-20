@@ -1,10 +1,9 @@
-Редактировать файл /etc/tor/torrc следующим образом:
-  MaxCircuitDirtiness 10 # change tor chain every 10 seconds
+Modify /etc/tor/torrc:
+`MaxCircuitDirtiness 10 # change tor chain every 10 seconds`
 
-вебочный Acunetix может проксировать только через HTTP так что нужно поднять HTTP-proxy
+Web based Acunetix can proxy only throigh HTTP so we need HTTP-proxy
 
-
-apt-get install polipo
+`apt-get install polipo`
 
 and add this to polipo config (/etc/polipo/config):
 

@@ -28,6 +28,7 @@ https://gitlab.com/dee-see/graphql-path-enum
 
 ## Cheat sheets
 - [OAuth](https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf)
+- [SSTI](https://gosecure.github.io/template-injection-workshop/)
 - [Web App Pentest Cheat Sheet](https://medium.com/@muratkaraoz/web-app-pentest-cheat-sheet-c17394af773)
 - [hacktricks.xyz](https://book.hacktricks.xyz/pentesting-web/)
 - [OWASP Prevention Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)

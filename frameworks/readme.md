@@ -5,3 +5,6 @@
 
 ### Wordpress
 - [HackTricks Common Attacks](https://book.hacktricks.xyz/pentesting/pentesting-web/wordpress)
+
+### Symphony 
+- [Symphony Scanner](https://github.com/synacktiv/eos/)

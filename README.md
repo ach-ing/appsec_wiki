@@ -16,7 +16,10 @@
 https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
 
 https://gitlab.com/dee-see/graphql-path-enum
+- [SAML](./saml)  
 
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
+  
 - [DBO](./dbo)  
 
 - [Smart Contract](./smart-contract)

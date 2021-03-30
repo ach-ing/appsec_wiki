@@ -24,6 +24,9 @@ https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-method
 
 - [Smart Contract](./smart-contract)
 
+- [ELK](./elk)
+https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-data/
+
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
 
 ## Check-Lists

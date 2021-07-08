@@ -31,7 +31,8 @@ https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-da
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
 
 ## Check-Lists
-- [API checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [API checklist](https://github.com/shieldfy/API-Security-Checklist)  
+- [2FA Mind Map checklist](https://www.xmind.net/m/8Hkymg/)  
 
 ## Cheat sheets
 - [OAuth](https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf)

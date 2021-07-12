@@ -44,7 +44,13 @@ https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-da
 - [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps](https://mostafa.dev/blog/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps)
 
 ## Tutorials
-- [Acunetix with Tor and chain update](./acunetixandtor.md)
+- [Acunetix with Tor and chain update](./acunetixandtor.md)  
+
+
+### Kubernetes Pentest Methodology
+[Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)  
+[Part 2](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)  
+[Part 3](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)  
 
 ## Links
 - [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/v41/)

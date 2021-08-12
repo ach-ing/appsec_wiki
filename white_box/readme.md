@@ -11,6 +11,9 @@ Then just manually search them in a source code and examine
 Python: bandit  
 Ruby: brakeman
 
+## Not good but can help somehow
+c#: sonarqube/PVS-Studio/Re-Sharper
+
 ## Ruby
 #### search for vulnerable gems  
 `$ gem install bundle-audit`  

@@ -30,8 +30,10 @@ https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-da
   
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
 
-- [Mobile]
+- [Mobile]()  
+
 https://ba5343ec.sbrws.pages.dev/android-pentesting-quickstart
+
 https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13
 
 ## Check-Lists

@@ -16,6 +16,12 @@
 https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
 
 https://gitlab.com/dee-see/graphql-path-enum
+
+https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors/
+
+https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
+
+https://blog.assetnote.io/2021/08/29/exploiting-graphql/
 - [SAML](./saml)  
 
 https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/

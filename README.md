@@ -11,6 +11,12 @@
 
 - [Clouds](./clouds)
 
+- [DBO](./dbo)  
+
+- [Smart Contracts](./smart-contract)
+
+- [Google Dorks for sensitive info leakage](./google_dorks.md)
+___________________________________
 ### GraphQL
 
 * https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
@@ -22,31 +28,28 @@
 * https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 
 * https://blog.assetnote.io/2021/08/29/exploiting-graphql/
-
+___________________________________
 ### OAuth
 - https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf
 - https://www.trustedsec.com/blog/practical-oauth-abuse-for-offensive-operations-part-1/
 
-
+___________________________________
 ### SAML
 
-https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
-  
-- [DBO](./dbo)  
+* https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
 
-- [Smart Contract](./smart-contract)
 
+___________________________________
 ### ELK 
 
-https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-data/
-  
-- [Google Dorks for sensitive info leakage](./google_dorks.md)
+* https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-data/
+___________________________________
 
 ### Mobile 
 
-https://ba5343ec.sbrws.pages.dev/android-pentesting-quickstart
+* https://ba5343ec.sbrws.pages.dev/android-pentesting-quickstart
 
-https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13
+* https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13
 
 ## Check-Lists
 - [API checklist](https://github.com/shieldfy/API-Security-Checklist)  

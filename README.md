@@ -11,18 +11,24 @@
 
 - [Clouds](./clouds)
 
-- [GraphQL](./graphql)
+### GraphQL
 
-https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
+* https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py
 
-https://gitlab.com/dee-see/graphql-path-enum
+* https://gitlab.com/dee-see/graphql-path-enum
 
-https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors/
+* https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors/
 
-https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
+* https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 
-https://blog.assetnote.io/2021/08/29/exploiting-graphql/
-- [SAML](./saml)  
+* https://blog.assetnote.io/2021/08/29/exploiting-graphql/
+
+### OAuth
+- https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf
+- https://www.trustedsec.com/blog/practical-oauth-abuse-for-offensive-operations-part-1/
+
+
+### SAML
 
 https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
   
@@ -30,13 +36,13 @@ https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-method
 
 - [Smart Contract](./smart-contract)
 
-- [ELK](./elk)  
+### ELK 
 
 https://www.archcloudlabs.com/projects/poking-at-elasticsearch-beyond-dumping-data/
   
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
 
-- [Mobile]()  
+### Mobile 
 
 https://ba5343ec.sbrws.pages.dev/android-pentesting-quickstart
 
@@ -47,7 +53,6 @@ https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-o
 - [2FA Mind Map checklist](https://www.xmind.net/m/8Hkymg/)  
 
 ## Cheat sheets
-- [OAuth](https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf)
 - [SSTI](https://gosecure.github.io/template-injection-workshop/)
 - [XXE](https://gosecure.github.io/xxe-workshop/)
 - [Web App Pentest Cheat Sheet](https://medium.com/@muratkaraoz/web-app-pentest-cheat-sheet-c17394af773)

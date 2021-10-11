@@ -1,7 +1,7 @@
 # appsec_wiki
 ## Topics
 
-- [Dicts](./dicts)
+
 
 - [Frameworks](./frameworks)
 
@@ -16,6 +16,16 @@
 - [Smart Contracts](./smart-contract)
 
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
+___________________________________
+### Wordlists
+* https://github.com/danielmiessler/SecLists
+* https://github.com/swisskyrepo/PayloadsAllTheThings
+* https://github.com/Bo0oM/fuzz.txt
+* https://github.com/random-robbie/bruteforce-lists
+* https://github.com/lutfumertceylan/top25-parameter
+* https://github.com/ayoubfathi/leaky-paths
+* https://github.com/ignis-sec/Pwdb-Public
+
 ___________________________________
 ### GraphQL
 

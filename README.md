@@ -18,6 +18,7 @@
 - [Google Dorks for sensitive info leakage](./google_dorks.md)
 ___________________________________
 ### Wordlists
+* https://github.com/assetnote/wordlists
 * https://github.com/danielmiessler/SecLists
 * https://github.com/swisskyrepo/PayloadsAllTheThings
 * https://github.com/Bo0oM/fuzz.txt

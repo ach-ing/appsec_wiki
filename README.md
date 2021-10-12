@@ -15,7 +15,9 @@
 
 - [Smart Contracts](./smart-contract)
 
-- [Google Dorks for sensitive info leakage](./google_dorks.md)
+- [Google Dorks](./google_dorks.md)
+
+- [Github Dorks](./github_dorks.md)
 ___________________________________
 ### Wordlists
 * https://github.com/assetnote/wordlists

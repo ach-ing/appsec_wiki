@@ -1,4 +1,4 @@
-### Learn the dangerous functions of the tested language.
+### Dangerous functions for different languages
 
 Java: https://stackoverflow.com/a/4351516  
 .NET: https://stackoverflow.com/a/20903746  
@@ -28,3 +28,6 @@ c#: sonarqube/PVS-Studio/Re-Sharper
 #### also searches for vulns
 `$ gem install brakeman`   
 `$ brakeman my/cool/ruby-on-rails/project --run-all-checks --branch-limit -1 --parser-timeout 120 -o ./brakeman-report.txt`  
+
+#### `mysql_real_escape_string` edge cases
+* https://www.sqlinjection.net/advanced/php/mysql-real-escape-string/

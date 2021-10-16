@@ -29,5 +29,6 @@ c#: sonarqube/PVS-Studio/Re-Sharper
 `$ gem install brakeman`   
 `$ brakeman my/cool/ruby-on-rails/project --run-all-checks --branch-limit -1 --parser-timeout 120 -o ./brakeman-report.txt`  
 
-#### `mysql_real_escape_string` edge cases
+#### `mysql_real_escape_string` edge cases/bypasses
 * https://www.sqlinjection.net/advanced/php/mysql-real-escape-string/
+* https://shiflett.org/blog/2006/addslashes-versus-mysql-real-escape-string

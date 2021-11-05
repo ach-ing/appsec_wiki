@@ -14,4 +14,4 @@
 
 ### PrivEsc AWS
 [privilege-escalation-in-aws](https://labs.bishopfox.com/tech-blog/privilege-escalation-in-aws)  
-
+[iam_privilege_escalation](https://hackingthe.cloud/aws/exploitation/iam_privilege_escalation/)

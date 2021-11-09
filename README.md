@@ -30,6 +30,20 @@ ___________________________________
 * https://github.com/ignis-sec/Pwdb-Public
 
 ___________________________________
+### SSRF
+* https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+* https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
+#### Blind/Second-order SSRF chains
+* https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+* https://github.com/assetnote/blind-ssrf-chains
+#### SSRF via PDF 
+* [Owning the clout through SSRF and PDF generator](https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/htmlpresent)
+* https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90
+#### SSRF via SVG
+* https://github.com/allanlw/svg-cheatsheet
+#### SSRF Restrictions Bypass Via Redirect
+* https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
+___________________________________
 ### GraphQL
 
 * https://github.com/gwen001/pentest-tools/blob/master/graphql-introspection-analyzer.py

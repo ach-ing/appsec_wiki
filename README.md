@@ -33,6 +33,7 @@ ___________________________________
 ### SSRF
 * https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
 * https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
+* https://0xn3va.gitbook.io/cheat-sheets/web-application/server-side-request-forgery
 #### Blind/Second-order SSRF chains
 * https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
 * https://github.com/assetnote/blind-ssrf-chains

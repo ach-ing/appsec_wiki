@@ -38,3 +38,36 @@ org:Target  "AWS_ACCESS_KEY_ID"
 org:Target  "list_aws_accounts"   
 by @hunter0x7
 
+```
+https://github.com/search?q="company"+db_password
+https://github.com/search?q="company"+"Authorization:+Bearer"
+https://github.com/search?q="company"+filename:vim_settings.xml
+https://github.com/search?q="company"+language:shell
+https://github.com/search?q="company"+language:python
+https://github.com/search?q="company"+fb_secret
+https://github.com/search?q="company"+sendkeys
+https://github.com/search?q="company"+pwd
+https://github.com/search?q="company"+mailgun
+https://github.com/search?q="company"+mailchimp
+https://github.com/search?q="company"+dotfiles
+https://github.com/search?q="company"+filename:.dockercfg+auth
+https://github.com/search?q="company"+apikey
+https://github.com/search?q="company"+id_rsa
+https://github.com/search?q="company"+id_ed25519
+https://github.com/search?q="company"+.env
+https://github.com/search?q="company"+.gitconfig
+https://github.com/search?q="company"+S3_USER_SECRET=
+https://github.com/search?q="company"+S3_KEY_ASSETS=
+https://github.com/search?q="company"+S3.AMAZONAWS.COM=
+https://github.com/search?q="company"+S3_KEY_APP_LOGS=
+https://github.com/search?q="company"+S3_BUCKET_NAME_APP_LOGS=
+https://github.com/search?q=org:company+"bucket_name"
+https://github.com/search?q=org:company+"aws_access_key"
+https://github.com/search?q=org:company+"aws_secret_key"
+https://github.com/search?q=org:company+"S3_BUCKET"
+https://github.com/search?q=org:company+"S3_ACCESS_KEY_ID"
+https://github.com/search?q=org:company+"S3_SECRET_ACCESS_KEY"
+https://github.com/search?q=org:company+"S3_ENDPOINT"
+https://github.com/search?q=org:company+"AWS_ACCESS_KEY_ID"
+https://github.com/search?q=org:company+"list_aws_accounts"
+```

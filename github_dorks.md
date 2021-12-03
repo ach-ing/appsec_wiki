@@ -38,6 +38,9 @@ org:Target  "AWS_ACCESS_KEY_ID"
 org:Target  "list_aws_accounts"   
 by @hunter0x7
 
+
+
+Github has rate limits so URL-openers should be used with a delay.
 ```
 https://github.com/search?q="company"+db_password
 https://github.com/search?q="company"+"Authorization:+Bearer"

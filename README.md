@@ -58,6 +58,8 @@ ___________________________________
 * https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 
 * https://blog.assetnote.io/2021/08/29/exploiting-graphql/
+
+* https://gitlab.com/dee-see/graphql-path-enum  
 ___________________________________
 ### OAuth
 - https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf

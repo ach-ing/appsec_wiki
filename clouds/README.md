@@ -12,6 +12,10 @@
 ### A tool to find open S3 buckets and dump their contents 
 [S3Scanner](https://github.com/sa7mon/S3Scanner)
 
+### AWS cheat-sheet
+[AWS_enum_cheat_sheet](https://pentestbook.six2dez.com/enumeration/cloud/aws)
+
+
 ### PrivEsc AWS
 [privilege-escalation-in-aws](https://labs.bishopfox.com/tech-blog/privilege-escalation-in-aws)  
 [iam_privilege_escalation](https://hackingthe.cloud/aws/exploitation/iam_privilege_escalation/)

@@ -46,3 +46,4 @@ https://www.google.com/search?q=site:*.atlassian.net+"company"
 https://www.google.com/search?q=atlassian.net+"company"
 https://www.google.com/search?q=inurl:gitlab+"company"
 ```
+https://support.google.com/websearch/answer/2466433

@@ -46,4 +46,9 @@ https://www.google.com/search?q=site:*.atlassian.net+"company"
 https://www.google.com/search?q=atlassian.net+"company"
 https://www.google.com/search?q=inurl:gitlab+"company"
 ```
+
+### Syntax
+https://www.google.com/advanced_search
 https://support.google.com/websearch/answer/2466433
+https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930

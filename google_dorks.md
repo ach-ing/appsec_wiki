@@ -47,7 +47,8 @@ https://www.google.com/search?q=atlassian.net+"company"
 https://www.google.com/search?q=inurl:gitlab+"company"
 ```
 
-### Syntax
+### References
+https://www.exploit-db.com/google-hacking-database  
 https://www.google.com/advanced_search  
 https://support.google.com/websearch/answer/2466433  
 https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/  

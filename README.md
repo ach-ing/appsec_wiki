@@ -84,7 +84,8 @@ ___________________________________
 * https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13
 
 ## Check-Lists
-- [API checklist](https://github.com/shieldfy/API-Security-Checklist)  
+- [API checklist](https://hackanythingfor.blogspot.com/2020/07/api-testing-checklist.html)
+- [API checklist2](https://github.com/shieldfy/API-Security-Checklist)  
 - [2FA Mind Map checklist](https://www.xmind.net/m/8Hkymg/)  
 
 ## Cheat sheets

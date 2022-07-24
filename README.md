@@ -62,6 +62,7 @@ ___________________________________
 * https://gitlab.com/dee-see/graphql-path-enum  
 ___________________________________
 ### OAuth
+- https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet  
 - https://owasp.org/www-pdf-archive/OWASP-NL_Chapter_Meeting201501015_OAuth_Jim_Manico.pdf
 - https://www.trustedsec.com/blog/practical-oauth-abuse-for-offensive-operations-part-1/
 

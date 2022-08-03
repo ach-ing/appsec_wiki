@@ -30,6 +30,11 @@ ___________________________________
 * https://github.com/lutfumertceylan/top25-parameter
 * https://github.com/ayoubfathi/leaky-paths
 * https://github.com/ignis-sec/Pwdb-Public
+#### Default credentials
+* https://cirt.net/passwords
+* https://default-password.info/
+* https://datarecovery.com/rd/default-passwords/
+* https://github.com/ihebski/DefaultCreds-cheat-sheet
 
 ___________________________________
 ### SSRF

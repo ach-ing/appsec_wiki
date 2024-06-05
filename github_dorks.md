@@ -27,15 +27,15 @@ by @connectChris
 `S3_BUCKET_NAME_APP_LOGS=`  
 by @ManasH4rsh
 
-org:Target "bucket_name"  
-org:Target "aws_access_key"   
-org:Target "aws_secret_key"   
-org:Target "S3_BUCKET"    
-org:Target "S3_ACCESS_KEY_ID"   
-org:Target "S3_SECRET_ACCESS_KEY"   
-org:Target "S3_ENDPOINT"    
-org:Target  "AWS_ACCESS_KEY_ID"   
-org:Target  "list_aws_accounts"   
+`org:Target "bucket_name"`  
+`org:Target "aws_access_key"`   
+`org:Target "aws_secret_key"`   
+`org:Target "S3_BUCKET"`    
+`org:Target "S3_ACCESS_KEY_ID"`   
+`org:Target "S3_SECRET_ACCESS_KEY"`   
+`org:Target "S3_ENDPOINT"`    
+`org:Target  "AWS_ACCESS_KEY_ID"`   
+`org:Target  "list_aws_accounts"`   
 by @hunter0x7
 
 
